@@ -1,0 +1,56 @@
+Nombre del equipo: boca
+Fecha de creación: 17 de junio
+Nombre del entrenador: Pedro 
+Apellido del entrenador: Gonzales
+Edad del entrenador: 35
+Jugadores:
+Identificador: 1
+Nombre: Rodrigo
+Apellido: Garcia
+Altura: 170.0
+Posición: delantero
+Cantidad de goles: 24
+Cantidad de partidos: 190
+Es capitán: true
+Número de camiseta: 9
+
+Identificador: 2
+Nombre: Julian
+Apellido: Hernandez
+Altura: 178.0
+Posición: arquero
+Cantidad de goles: 45
+Cantidad de partidos: 187
+Es capitán: false
+Número de camiseta: 8
+
+Identificador: 3
+Nombre: Lucas
+Apellido: Lopez
+Altura: 167.0
+Posición: defensor
+Cantidad de goles: 25
+Cantidad de partidos: 234
+Es capitán: false
+Número de camiseta: 7
+
+Identificador: 4
+Nombre: Lucio
+Apellido: Romero
+Altura: 169.0
+Posición: defensor
+Cantidad de goles: 23
+Cantidad de partidos: 123
+Es capitán: false
+Número de camiseta: 5
+
+Identificador: 5
+Nombre: Camilo
+Apellido: Perez
+Altura: 169.0
+Posición: delantero
+Cantidad de goles: 5
+Cantidad de partidos: 12
+Es capitán: false
+Número de camiseta: 4
+
